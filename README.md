@@ -7,6 +7,8 @@ welcome download and use it freely.
 
 ![example](https://pbs.twimg.com/media/EZfUSu3U0AUNIay?format=jpg&name=medium)
 
+![example](https://pbs.twimg.com/media/EZfUxamVAAUqVze?format=png&name=small)
+
 HowToPlay：
 1. Create a unity project;
 2. Drag all files in Assets folder;
