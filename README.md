@@ -5,6 +5,7 @@ ref: https://www.shadertoy.com/view/4dK3Ww
 
 welcome download and use it freely.
 
+final scene, and need to know this repository only includs water itself.
 ![example](https://pbs.twimg.com/media/EZfUSu3U0AUNIay?format=jpg&name=medium)
 
 ![example](https://pbs.twimg.com/media/EZfUxamVAAUqVze?format=png&name=small)
